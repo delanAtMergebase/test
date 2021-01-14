@@ -3,6 +3,8 @@ edit2
 edit 3
 edit4
 
+edit5
+
 <img src="https://raw.githubusercontent.com/react-boilerplate/react-boilerplate-brand/master/assets/banner-metal-optimized.jpg" alt="react boilerplate banner" align="center" />
 
 <br />
