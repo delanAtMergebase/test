@@ -5,6 +5,7 @@ edit4
 edit5
 edit6
 edit7
+edit on branch
 
 <img src="https://raw.githubusercontent.com/react-boilerplate/react-boilerplate-brand/master/assets/banner-metal-optimized.jpg" alt="react boilerplate banner" align="center" />
 
